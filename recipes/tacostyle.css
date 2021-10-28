@@ -1,0 +1,22 @@
+.indexheader {
+    text-align: center;
+
+}
+
+
+html {
+    height: 200%;
+}
+body {
+    height: 100%;
+    background-repeat:no-repeat;
+    background-image: linear-gradient(#F2994A, #F2C94C );
+    position: absolute;
+
+}
+
+.tacopic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
